@@ -1,6 +1,6 @@
 body {
   height: 100vh;
-  font-family: 'FiraGO', sans-serif;
+  font-family: 'Inter', sans-serif;
   /* font-feature-settings: 'case' on; */
   background-color: #fffaf6;
 }
@@ -88,58 +88,6 @@ body {
   height: 40px;
 }
 
-.text-center-legend {
-  text-align: center;
-  padding-top: 0px;
-  padding-bottom: 30px;
-  width: 850px;
-  margin-left: 40px;
-}
-
-
-.message-box {
-  opacity: 0.3
-}
-
-.message-box.all-legend {
-  width: 16px !important;
-  background-color: #378fc1;
-  opacity: 1;
-}
-
-.message-box.label {
-  width: 16px !important;
-  background-color: #E29896;
-}
-
-.message-box.scare {
-  width: 16px !important;
-  background-color: #AD98F9;
-}
-
-.message-box.information {
-  width: 16px !important;
-  background-color: #7DC7BF;
-}
-
-.message-box.anti-western {
-  width: 16px !important;
-  background-color: #8FC8F2;
-}
-
-.message-box.values {
-  width: 16px !important;
-  background-color: #F0C987;
-}
-
-.text-message {
-  text-align: left;
-  margin-left: 4px;
-  width: 132px;
-  inline-size: 250px;
-  font-feature-settings: 'case' on;
-  font-size: 11px;
-}
 
 .circle-size-text {
   margin-top: 30px;
@@ -304,15 +252,6 @@ body {
   box-shadow: 500px 100px red;
 }
 
-.legend-container {
-  padding-top: 0px;
-  width: 850px;
-}
-
-/* .circle-node {
-  border-radius: 50%;
-  box-shadow: 0 0 0 3px #e78267;
-} */
 
 .logo-header {
   margin-bottom: 2px;
@@ -348,3 +287,21 @@ a {
 .modal-body {
   padding: 20px 120px 20px 120px
 }
+
+/* legend buttons */
+.legend-container {
+  padding-top: 0px;
+  width: 850px;
+  display: flex;
+  flex-wrap: wrap; 
+  gap: 8px;
+}
+
+.legend-button {
+  color: #ffffff;
+  border: none; 
+  padding: 10px;
+  border-radius: 8px;
+
+}
+
