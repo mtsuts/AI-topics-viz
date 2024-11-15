@@ -1,6 +1,7 @@
 [
   {
     "topic": "AI in Creativity (Art, Music, Writing)",
+    "terminology": "Creativity",
     "data": [
       {
         "person": "Hugo Caselles-Dupré",
@@ -48,6 +49,7 @@
   },
   {
     "topic": "AI in Financial Services",
+    "terminology": "Finance",
     "data": [
       {
         "person": "Kostis Chlouverakis",
@@ -102,6 +104,7 @@
   },
   {
     "topic": "AI in Education",
+    "terminology": "Education",
     "data": [
       {
         "person": "Dora Demszky",
@@ -135,6 +138,7 @@
   },
   {
     "topic": "AI in Climate Change and Environmental Protection",
+    "terminology": "Climate",
     "data": [
       {
         "person": "Jack Hurd",
@@ -175,6 +179,7 @@
   },
   {
     "topic": "AI in Security (Cybersecurity, Defense)",
+    "terminology": "Security",
     "data": [
       {
         "person": "General Mark Milley",
@@ -222,6 +227,7 @@
   },
   {
     "topic": "AI in Humanitarian Aid and Disaster Relief",
+    "terminology": "Humanitarian",
     "data": [
       {
         "person": "Dr. Rania A. Al-Mashat",
@@ -262,6 +268,7 @@
   },
   {
     "topic": "AI in Social Media and Content Moderation",
+    "terminology": "Social Media",
     "data": [
       {
         "person": "Oversight Board",
@@ -302,6 +309,7 @@
   },
   {
     "topic": "AI in Robotics",
+    "terminology": "Robotics",
     "data": [
       {
         "person": "Sam Altman",
@@ -342,6 +350,7 @@
   },
   {
     "topic": "AI in Government and Public Policy",
+    "terminology": "Government",
     "data": [
       {
         "person": "Joe Biden",
@@ -389,6 +398,7 @@
   },
   {
     "topic": "AI in Retail and Customer Experience",
+    "terminology": "Retail",
     "data": [
       {
         "person": "Dave Clark",
@@ -429,6 +439,7 @@
   },
   {
     "topic": "AI in Agriculture",
+    "terminology": "Agriculture",
     "data": [
       {
         "person": "Mayuri Aggarwal",
@@ -469,6 +480,7 @@
   },
   {
     "topic": "AI in Space Exploration",
+    "terminology": "Space",
     "data": [
       {
         "person": "NASA",

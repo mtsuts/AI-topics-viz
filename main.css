@@ -2,12 +2,11 @@ body {
   height: 100vh;
   font-family: 'Inter', sans-serif;
   /* font-feature-settings: 'case' on; */
-  background-color: #fffaf6;
+  background-color: #212121;
 }
 
 .main-container {
   padding: 30px 20px 0px 20px;
-  /* height: 100%; */
   width: 990px !important;
   max-width: 990px !important;
   min-width: 990px !important
@@ -17,20 +16,9 @@ body {
   height: 490px;
 }
 
-.about-us {
-  font-size: 15px;
-  text-align: left;
-  font-feature-settings: 'case' on;
-  cursor: pointer;
-}
-
-.last-update {
-  font-size: 9px;
-  text-align: right;
-  font-feature-settings: 'case' on;
-}
 
 .message {
+  color: #ffffff;
   font-size: 30px;
   font-weight: bold;
   font-feature-settings: 'case' on;
@@ -45,49 +33,6 @@ body {
   font-feature-settings: 'case' on;
 }
 
-.add-message {
-  margin-top: 10px;
-  margin-bottom: 30px;
-  font-feature-settings: 'case' on;
-}
-
-.add-message-btn {
-  color: white;
-  font-size: 13px;
-  background-color: #737070;
-  border-radius: 40px;
-  padding: 10px;
-  border: none;
-  font: bold;
-  font-feature-settings: 'case' on;
-  position: fixed;
-  top: 700px;
-  right: 50px
-}
-
-.add-message-btn:hover {
-  background-color: #444444;
-}
-
-.add-message-row {
-  text-align: center;
-}
-
-.help-text {
-  font-size: 13px;
-  font-feature-settings: 'case' on;
-}
-
-.message-rectangle {
-  display: flex;
-  height: 32px;
-}
-
-.message-row {
-  cursor: pointer;
-  height: 40px;
-}
-
 
 .circle-size-text {
   margin-top: 30px;
@@ -100,39 +45,6 @@ body {
   display: block;
 }
 
-.government {
-  font-size: 12px;
-  text-align: left;
-  margin-top: 17px;
-  font-feature-settings: 'case' on;
-}
-
-.others {
-  font-size: 12px;
-  text-align: right;
-  margin-top: 17px;
-  font-feature-settings: 'case' on;
-}
-
-.terminologies {
-  font-size: 27px;
-  font-weight: bold;
-  margin-bottom: 9px;
-  width: 450px;
-  border-bottom-width: 10px;
-  border-bottom-color: transparent;
-  border-bottom-style: solid;
-  transform: translateY(14px);
-  font-feature-settings: 'case' on;
-  text-align: center;
-  line-height: 29px
-}
-
-.message-line {
-  margin-top: 8px;
-  font-feature-settings: 'case' on;
-  text-align: center;
-}
 
 .horizontal-space-line {
   background-color: black;
@@ -170,57 +82,6 @@ body {
   font-size: 14px;
 }
 
-.quote-date {
-  font-size: 11px;
-  font-weight: 300;
-  font-feature-settings: 'case' on;
-}
-
-.quote {
-  margin-bottom: 15px;
-}
-
-.quotes-section {
-  margin-top: 20px;
-  opacity: 0
-}
-
-.quotes {
-  padding-top: 0px;
-}
-
-.quote-text {
-  font-feature-settings: 'case' on;
-}
-
-
-.tv {
-  font-size: 11px;
-  color: #001dc8;
-  cursor: pointer;
-  font-feature-settings: 'case' on;
-  white-space: nowrap;
-
-}
-
-.tv a {
-  text-decoration: none;
-  color: #001dc8;
-}
-
-.quote-underline {
-  height: 0.05em;
-  background-color: #001dc8;
-  margin-top: 10px;
-  margin-bottom: 20px;
-  flex-grow: 1;
-}
-
-.quote-underline-tv {
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
-
 .pr-1 {
   padding-right: 0.3rem
 }
@@ -251,7 +112,6 @@ body {
   border: 1px solid;
   box-shadow: 500px 100px red;
 }
-
 
 .logo-header {
   margin-bottom: 2px;
@@ -284,10 +144,6 @@ a {
   font-weight: bolder
 }
 
-.modal-body {
-  padding: 20px 120px 20px 120px
-}
-
 /* legend buttons */
 .legend-container {
   padding-top: 0px;
@@ -300,8 +156,9 @@ a {
 .legend-button {
   color: #ffffff;
   border: none; 
-  padding: 10px;
+  padding: 6px;
   border-radius: 8px;
-
+  flex: 0 0 calc(33.33% - 8px); /* Adjust to fit 3 buttons per line */
+  box-sizing: border-box;
 }
 

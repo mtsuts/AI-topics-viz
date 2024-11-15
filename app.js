@@ -1,17 +1,41 @@
-const sheetId = "13KwBdgVHXWRPOyPRW2SODEU5RAdKHJyJ";
-const base = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?`;
-const sheetName = "data";
-const query = encodeURIComponent("Select *");
-const url = `${base}&sheet=${sheetName}&tq=${query}`;
-let data;
-let terminology = [];
-document.addEventListener("DOMContentLoaded", init);
+const sheetId = "13KwBdgVHXWRPOyPRW2SODEU5RAdKHJyJ"
+const base = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?`
+const sheetName = "data"
+const query = encodeURIComponent("Select *")
+const url = `${base}&sheet=${sheetName}&tq=${query}`
+let data
+let terminology = []
+document.addEventListener("DOMContentLoaded", init)
+
 function init() {
+  d3.json('data/data.json').then(res => {
+    const data = res.map((d, i) => {
+      const label = labelsData.find((label) => label.topic === d.topic)
+      return {
+        ...d, 
+        id: getRandomId(),
+        message: d.topic,
+        amount: d.data.length, 
+        color: label.background_color
+      }
+    })
+    const container = {
+      container: ".svg-div",
+    }
+
+    forceGraph(data, container)
+
+  })
+
+
+
+
+
   fetch(url)
     .then((res) => res.text())
     .then((rep) => {
-      const datum = JSON.parse(rep.substring(47).slice(0, -2));
-      const newData = datum.table.rows;
+      const datum = JSON.parse(rep.substring(47).slice(0, -2))
+      const newData = datum.table.rows
       data = newData.map(function (d) {
         return {
           terminology: d.c[5].v,
@@ -26,11 +50,11 @@ function init() {
           regalia: d.c[1].v,
           definition: d.c[4].v,
           photo: d.c[10].v,
-        };
-      });
+        }
+      })
 
 
-      let terminology = {};
+      let terminology = {}
 
       data.forEach((d) => {
 
@@ -47,7 +71,7 @@ function init() {
             regalia: d.regalia,
             definition: d.definition,
             photo: d.photo
-          });
+          })
         } else {
           terminology[d.terminology] = [
             {
@@ -63,13 +87,11 @@ function init() {
               definition: d.definition,
               photo: d.photo
             },
-          ];
+          ]
         }
-      });
+      })
 
-      const terminologyArray = Object.entries(terminology);
-      const engTerms = ['All', 'label-box', 'scare', 'infoManipulation_box', 'antiWestern_box', "valueManipulation_box"]
-
+      const terminologyArray = Object.entries(terminology)
 
       const nodes = terminologyArray.map((d) => {
         return {
@@ -84,17 +106,12 @@ function init() {
           definition: d[1][0].definition,
           idAuthor: getRandomId(),
           photo: d[1][0].photo
-        };
-      });
-
-      const container = {
-        container: ".svg-div",
-      };
-
-      forceGraph(nodes, container)
+        }
+      })
 
 
-    });
+
+    })
 }
 
 

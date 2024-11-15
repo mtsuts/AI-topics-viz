@@ -20,6 +20,11 @@ const labelsData = [
     background_color: "#1e88e5"
   },
   {
+    topic: "AI in Climate Change and Environmental Protection",
+    data_type: 'climate',
+    background_color: "#00acc1"
+  },
+  {
     topic: "AI in Humanitarian Aid and Disaster Relief",
     data_type: "humanitarian",
     background_color: "#651fff"
