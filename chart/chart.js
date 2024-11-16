@@ -133,7 +133,7 @@ function forceGraph(nodes, params) {
       .style('opacity', 1)
       .classed('click', true)
       .attr('r', (x) => rScale(x.amount))
-      .style('filter', `drop-shadow(0 0 0.90rem ${topic.color})`)
+      .style('filter', `drop-shadow(0 0 0.99rem ${topic.color})`)
 
     // clean container before append new topic quotes
     container.html('')
@@ -164,7 +164,7 @@ function forceGraph(nodes, params) {
     })
   }
 
-  quotesOpened(nodes.find(d => d.terminology === "Creativity"))
+  quotesOpened(nodes.find(d => d.terminology === "Space"))
 }
 
 
