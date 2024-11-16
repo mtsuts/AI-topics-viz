@@ -85,20 +85,6 @@
         "quote": "AI's role in enhancing risk management and personalizing banking services is undeniable, but we must navigate the regulatory challenges to ensure ethical implementation.",
         "year": 2024,
         "source": "https://www.bankofamerica.com"
-      },
-      {
-        "person": "Deloitte Report",
-        "role": "Report, 2024",
-        "quote": "Generative AI has the potential to significantly boost revenue in investment banks by enhancing front-office operations and improving market analysis efficiency.",
-        "year": 2024,
-        "source": "https://www.deloitte.com"
-      },
-      {
-        "person": "European Union Regulatory Framework",
-        "role": "EU AI Act",
-        "quote": "The upcoming EU AI Act will ensure that AI in financial services is transparent, accountable, and deployed in a way that prioritizes safety and fairness.",
-        "year": 2024,
-        "source": "https://www.skadden.com"
       }
     ]
   },
@@ -185,22 +171,8 @@
         "person": "General Mark Milley",
         "role": "Chairman of the Joint Chiefs of Staff",
         "year": 2024,
-        "source": "https://www.armytimes.com",
-        "quote": "AI is transforming the landscape of modern warfare. It's not just about better surveillance or intelligence—it's about creating autonomous systems capable of making decisions faster and with greater precision than ever before."
-      },
-      {
-        "person": "Chris Krebs",
-        "role": "Former Director of CISA (Cybersecurity and Infrastructure Security Agency)",
-        "year": 2024,
-        "source": "https://www.cisa.gov",
-        "quote": "The challenge with AI in cybersecurity is twofold: while it can help defend against cyberattacks, it can also be weaponized by adversaries to automate and enhance their attacks, especially in the realm of disinformation and misinformation."
-      },
-      {
-        "person": "Elliott Schrage",
-        "role": "Chief Privacy Officer, Facebook",
-        "year": 2024,
-        "source": "https://www.facebook.com",
-        "quote": "As AI becomes more integrated into defense systems, the risk of adversaries exploiting its vulnerabilities grows. We must be proactive in securing AI models and ensuring they are resilient against attacks like data poisoning."
+        "source": "https://www.cbsnews.com/news/artificial-intelligence-in-military-general-mark-milley-future-of-warfare-60-minutes/",
+        "quote": "Artificial intelligence is extremely powerful, It's coming at us. I suspect it will be probably optimized for command and control of military operations within maybe ten to 15 years, max."
       },
       {
         "person": "Dr. Fei-Fei Li",

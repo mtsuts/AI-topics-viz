@@ -68,20 +68,6 @@ body {
   align-items: center;
 }
 
-.message-author {
-  font-size: 11px;
-  text-align: center;
-  margin-top: 30px;
-  font-feature-settings: 'case' on;
-  text-align: center;
-  cursor: auto
-}
-
-.message-quote {
-  text-align: left;
-  font-size: 14px;
-}
-
 .pr-1 {
   padding-right: 0.3rem
 }
@@ -149,16 +135,57 @@ a {
   padding-top: 0px;
   width: 850px;
   display: flex;
-  flex-wrap: wrap; 
+  flex-wrap: wrap;
   gap: 8px;
 }
 
 .legend-button {
   color: #ffffff;
-  border: none; 
+  border: none;
   padding: 6px;
   border-radius: 8px;
-  flex: 0 0 calc(33.33% - 8px); /* Adjust to fit 3 buttons per line */
+  flex: 0 0 calc(33.33% - 8px);
+  /* Adjust to fit 3 buttons per line */
   box-sizing: border-box;
 }
 
+
+
+/* quotes section */
+
+.quotes {
+  padding-top: 0px;
+  width: 850px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding-bottom: 40px !important
+}
+
+.quote-section-title {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.quote-container {
+  border: none;
+  padding: 10px;
+  flex: 0 0 calc(50% - 20px);
+  border: 2px solid #a29f9f;
+  border-radius: 8px
+}
+
+
+.quote-author {
+  color: #ffffff
+}
+
+.quote-text {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #a29f9f;
+  font-style: italic;
+}
