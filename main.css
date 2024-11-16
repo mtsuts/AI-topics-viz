@@ -150,7 +150,6 @@ a {
 }
 
 /* quotes section */
-
 .quotes {
   padding-top: 0px;
   width: 850px;
@@ -160,14 +159,6 @@ a {
   gap: 20px;
   padding-bottom: 40px !important
 }
-
-.quote-section-title {
-  color: #ffffff;
-  font-size: 20px;
-  font-weight: 600;
-  margin-bottom: 10px;
-}
-
 .quote-container {
   border: none;
   padding: 10px;
