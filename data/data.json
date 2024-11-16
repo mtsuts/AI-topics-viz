@@ -4,46 +4,28 @@
     "terminology": "Creativity",
     "data": [
       {
-        "person": "Hugo Caselles-Dupré",
-        "role": "Founder, Art by AI",
-        "quote": "AI is not replacing artists; it is simply another tool that artists can use to push the boundaries of what is possible in their craft.",
+        "person": "Will.i.am",
+        "quote": "AI is going to be the new instrument that artists will use to create music.",
+        "role": "Musician and Entrepreneur",
         "year": 2024,
-        "source": "https://www.weforum.org/agenda/2024/01/ai-creative-arts/"
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/video/events/william-on-ai-and-creative/FDBE03D3-ABAC-4E05-A2D7-CD7C0EAC3F9F.html"
       },
       {
-        "person": "Taryn Southern",
-        "role": "Musician, Producer",
-        "quote": "Artificial Intelligence has given me the opportunity to collaborate with my own future self. It helps me move faster and experiment in ways I never could before.",
+        "person": "Zanny Minton Beddoes",
+        "quote": "AI will enhance efficiency and unleash creativity, not replace jobs.",
+        "role": "Editor-in-Chief of The Economist",
         "year": 2024,
-        "source": "https://www.weforum.org/agenda/2024/01/ai-creative-arts/"
+        "source": "The Australian",
+        "url": "https://www.theaustralian.com.au/business/media/ai-enhances-human-creativity-and-will-create-jobs-says-the-economists-editor-in-chief/news-story/44a933c59e202a9bdec9b94c8e461b3b"
       },
       {
-        "person": "Nick Cave",
-        "role": "Musician",
-        "quote": "I am not interested in writing songs with machines, as it would remove the emotional depth that human creation brings. However, I can see AI being useful in certain creative processes.",
-        "year": 2024,
-        "source": "https://www.theguardian.com/music/2024/mar/18/nick-cave-comments-on-ai-in-music"
-      },
-      {
-        "person": "David Cope",
-        "role": "Composer, Musicologist",
-        "quote": "AI is the perfect tool for composers who wish to experiment with styles and genres in a way that was never before possible. It opens up new creative pathways.",
-        "year": 2024,
-        "source": "https://www.musictech.net/news/ai-composing-2024/"
-      },
-      {
-        "person": "Sarah Ziegler",
-        "role": "Artist, Creative Technologist",
-        "quote": "AI offers an extraordinary canvas for digital artists. It allows us to think about art in entirely new ways, blending human emotion and algorithmic precision.",
-        "year": 2024,
-        "source": "https://www.artificialintelligence.com/2024/03/ai-art-creative-industry-impact/"
-      },
-      {
-        "person": "Shiraishi Ryo",
-        "role": "AI Art Curator",
-        "quote": "While AI can generate art, it is ultimately still driven by human input and intention. The value lies in how we use these tools, not just in the outputs they produce.",
-        "year": 2024,
-        "source": "https://www.creativefuture.com/articles/ai-creative-discourse-2024"
+        "person": "Patrick Clair",
+        "quote": "DALL-E surprises you, and comes back with things that are genuinely creative.",
+        "role": "Title Sequence Designer",
+        "year": 2023,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/2023/6/27/23770133/secret-invasion-ai-credits-marvel"
       }
     ]
   },
@@ -52,39 +34,28 @@
     "terminology": "Finance",
     "data": [
       {
-        "person": "Kostis Chlouverakis",
-        "role": "EY CESA Financial Services AI Leader",
-        "quote": "Generative AI is driving a profound transformation in financial services, fostering innovation and streamlining operations, particularly in customer service, risk management, and capital markets.",
+        "person": "Paul Bassat",
+        "quote": "AI startups are a threat to incumbent big companies.",
+        "role": "Co-founder of Seek and Venture Capitalist",
         "year": 2024,
-        "source": "https://www.ey.com"
+        "source": "The Australian",
+        "url": "https://www.theaustralian.com.au/business/financial-services/ai-startups-a-threat-to-incumbent-big-companies-paul-bassat-tells-sohn-conference/news-story/e3baacde5527bfb3c881e07aa1a26091"
       },
       {
-        "person": "Helen Yu",
-        "role": "CEO of Tigon Advisory",
-        "quote": "AI is not just about improving operations; it's about rethinking how financial institutions interact with customers, using AI to create seamless and personalized experiences.",
+        "person": "David Solomon",
+        "quote": "AI is an 'unprecedented' opportunity.",
+        "role": "CEO of Goldman Sachs",
         "year": 2024,
-        "source": "https://www.tigonadvisory.com"
+        "source": "Financial News London",
+        "url": "https://www.fnlondon.com/articles/david-solomon-ai-20240415"
       },
       {
-        "person": "Bruno Diniz",
-        "role": "Fintech Expert",
-        "quote": "AI will fundamentally change how we extract and interpret data in the financial sector, enhancing everything from risk assessment to customer insights.",
+        "person": "Janet Yellen",
+        "quote": "AI introduces significant risks in finance.",
+        "role": "U.S. Treasury Secretary",
         "year": 2024,
-        "source": "https://www.brunodiniz.com"
-      },
-      {
-        "person": "Ajay Rawal",
-        "role": "Senior Partner at EY",
-        "quote": "The strategic deployment of AI within banks, particularly generative models, is enabling new levels of personalization and operational efficiency, making these systems vital for the future of financial services.",
-        "year": 2024,
-        "source": "https://www.ey.com"
-      },
-      {
-        "person": "Cathy Bessant",
-        "role": "Chief Operations and Technology Officer, Bank of America",
-        "quote": "AI's role in enhancing risk management and personalizing banking services is undeniable, but we must navigate the regulatory challenges to ensure ethical implementation.",
-        "year": 2024,
-        "source": "https://www.bankofamerica.com"
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/finance/yellen-warn-significant-risks-use-ai-finance-2024-06-05/"
       }
     ]
   },
@@ -93,32 +64,28 @@
     "terminology": "Education",
     "data": [
       {
-        "person": "Dora Demszky",
-        "role": "Assistant Professor of Education Data Science",
-        "year": 2024,
-        "source": "https://www.stanford.edu",
-        "quote": "AI can provide real-time feedback and post-lesson reports to improve teaching, creating a bank of live advice based on expert pedagogy."
-      },
-      {
-        "person": "Percy Liang",
-        "role": "Director of Stanford HAI Center for Research on Foundation Models",
-        "year": 2024,
-        "source": "https://hai.stanford.edu",
-        "quote": "AI can simulate students, allowing new teachers to practice by interacting with AI models that can ask adaptive follow-up questions and simulate confusion."
-      },
-      {
         "person": "Sal Khan",
+        "quote": "AI will be our most effective, least judgmental tutor. But humans have their work cut out for them too.",
         "role": "Founder of Khan Academy",
         "year": 2024,
-        "source": "https://www.khanacademy.org",
-        "quote": "AI could help teachers stay updated with the latest advancements in their field, such as using AI to learn about breakthroughs in biology."
+        "source": "Microsoft",
+        "url": "https://www.microsoft.com/en-us/worklab/podcast/khan-academy-founder-sal-khan-on-the-future-of-learning#:~:text=AI%20will%20be%20our%20most,cut%20out%20for%20them%20too.&text=Imagine%20a%20world%20where%20we,challenge%2C%20support%2C%20or%20motivation."
       },
       {
-        "person": "Houman Harouni",
-        "role": "Lecturer at Harvard Graduate School of Education",
-        "year": 2024,
-        "source": "https://www.gse.harvard.edu",
-        "quote": "Stop pretending AI doesn’t exist. Educators must help students face the reality of AI, developing tools for navigating this new world with integrity."
+        "person": "Arne Duncan",
+        "quote": "Artificial intelligence can help bridge the educational gap by providing resources to underserved communities.",
+        "role": "Former U.S. Secretary of Education",
+        "year": 2023,
+        "source": "The Hechinger Report",
+        "url": "https://hechingerreport.org/arne-duncan-ai-education-equity"
+      },
+      {
+        "person": "Sundar Pichai",
+        "quote": "AI can make education more accessible and inclusive, reaching students in ways we never thought possible.",
+        "role": "CEO of Alphabet Inc.",
+        "year": 2023,
+        "source": "Google Blog",
+        "url": "https://blog.google/technology/ai/ai-education-accessibility"
       }
     ]
   },
@@ -127,39 +94,28 @@
     "terminology": "Climate",
     "data": [
       {
-        "person": "Jack Hurd",
-        "role": "Co-Head of the Centre for Nature and Climate, World Economic Forum",
-        "year": 2024,
-        "quote": "AI-based early warning systems, agricultural forecasting, and supply chain optimization are playing a pivotal role in climate adaptation, with visible positive outcomes already in various regions.",
-        "source": "https://www.weforum.org"
+        "person": "Andrew Zolli",
+        "quote": "AI can help us understand and mitigate the impacts of climate change by analyzing complex environmental data.",
+        "role": "Vice President of Global Impact Initiatives at Planet Labs",
+        "year": 2023,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/andrewzolli/2023/06/15/ai-climate-change-data-analysis"
       },
       {
-        "person": "Ajay Banga",
-        "role": "President of the World Bank",
-        "year": 2024,
-        "quote": "The World Bank must adapt its strategies to finance a low-emission future and the protection of nature, as we continue to face the impacts of climate change and the need for resilient solutions.",
-        "source": "https://www.weforum.org"
+        "person": "Fei-Fei Li",
+        "quote": "Artificial intelligence is a powerful tool for environmental conservation, enabling us to monitor ecosystems in real-time.",
+        "role": "Co-Director of the Stanford Human-Centered AI Institute",
+        "year": 2023,
+        "source": "Stanford University",
+        "url": "https://hai.stanford.edu/news/ai-environmental-conservation-fei-fei-li"
       },
       {
-        "person": "Kristalina Georgieva",
-        "role": "Managing Director of the IMF",
-        "year": 2024,
-        "quote": "AI can provide us with tools for sustainable growth, but we need the right policies to ensure that its use leads to equitable climate adaptation solutions.",
-        "source": "https://www.weforum.org"
-      },
-      {
-        "person": "Saadia Zahidi",
-        "role": "Managing Director and Head of the Centre for the New Economy and Society, World Economic Forum",
-        "year": 2024,
-        "quote": "The next decade will see AI and automation reshape our workforce, and it is crucial that we integrate these technologies responsibly to address environmental and economic challenges.",
-        "source": "https://www.weforum.org"
-      },
-      {
-        "person": "Mark Carney",
-        "role": "UN Special Envoy on Climate Action and Finance",
-        "year": 2024,
-        "quote": "AI presents immense opportunities for the financial sector in combating climate change, but we must ensure transparency and responsibility in its deployment to avoid reinforcing environmental harm.",
-        "source": "https://www.weforum.org"
+        "person": "Demis Hassabis",
+        "quote": "AI can accelerate our efforts to combat climate change by optimizing energy consumption and reducing emissions.",
+        "role": "CEO of DeepMind",
+        "year": 2023,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2023/mar/22/ai-climate-change-energy-optimization"
       }
     ]
   },
@@ -168,32 +124,28 @@
     "terminology": "Security",
     "data": [
       {
-        "person": "General Mark Milley",
-        "role": "Chairman of the Joint Chiefs of Staff",
+        "person": "Alejandro Mayorkas",
+        "quote": "Artificial intelligence is a powerful tool that can be used to secure critical infrastructure, but it must be implemented responsibly to mitigate risks.",
+        "role": "U.S. Secretary of Homeland Security",
         "year": 2024,
-        "source": "https://www.cbsnews.com/news/artificial-intelligence-in-military-general-mark-milley-future-of-warfare-60-minutes/",
-        "quote": "Artificial intelligence is extremely powerful, It's coming at us. I suspect it will be probably optimized for command and control of military operations within maybe ten to 15 years, max."
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/3b4a0c6962ad75ef50422b726e7e04e0"
       },
       {
-        "person": "Dr. Fei-Fei Li",
-        "role": "Professor of Computer Science, Stanford University",
+        "person": "James Scott",
+        "quote": "Ransomware is more about manipulating vulnerabilities in human psychology than the adversary’s technological sophistication.",
+        "role": "Senior Fellow, Institute for Critical Infrastructure Technology",
         "year": 2024,
-        "source": "https://cs.stanford.edu",
-        "quote": "AI can revolutionize cybersecurity by identifying and responding to cyber threats in real-time. But the technology is also susceptible to misuse. We need to ensure that AI is developed ethically and safely, especially when it comes to defense and security."
+        "source": "Atera",
+        "url": "https://www.atera.com/blog/best-cybersecurity-quotes/"
       },
       {
-        "person": "Dr. Ash Carter",
-        "role": "Former U.S. Secretary of Defense",
+        "person": "Stephane Nappo",
+        "quote": "Cyber-Security is much more than a matter of IT.",
+        "role": "Global Chief Information Security Officer",
         "year": 2024,
-        "source": "https://www.defense.gov",
-        "quote": "The rapid development of AI in military defense offers incredible capabilities, but it also poses significant ethical and security challenges, particularly in the realm of autonomous weapons systems and AI-driven surveillance."
-      },
-      {
-        "person": "Alex Stamos",
-        "role": "Former Chief Security Officer, Facebook",
-        "year": 2024,
-        "source": "https://www.alexstamos.com",
-        "quote": "AI has the potential to be both a shield and a sword in cybersecurity. On the defensive side, it can bolster our efforts to protect critical infrastructure, but it also presents new avenues for cybercriminals to exploit vulnerabilities in AI systems."
+        "source": "DigitalDefynd",
+        "url": "https://digitaldefynd.com/IQ/inspirational-cybersecurity-quotes/"
       }
     ]
   },
@@ -202,80 +154,58 @@
     "terminology": "Humanitarian",
     "data": [
       {
-        "person": "Dr. Rania A. Al-Mashat",
-        "role": "Minister of International Cooperation, Egypt",
-        "quote": "AI can significantly enhance our disaster response efforts, providing real-time data analysis that helps us target resources to the most affected regions immediately. It ensures that no one is left behind in the wake of a disaster.",
-        "source": "https://www.mofa.gov.eg",
-        "year": 2024
+        "person": "International Rescue Committee",
+        "quote": "AI presents high potential in scaling humanitarian responses, but it also carries risks, including providing incorrect information and data security threats.",
+        "role": "Global Humanitarian Organization",
+        "year": 2024,
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/9c5fae949c429c38019feabaeec5fafa"
       },
       {
-        "person": "Mohammad Javad Zarif",
-        "role": "Former Foreign Minister, Iran",
-        "quote": "Artificial intelligence has transformed how we address humanitarian crises. The application of AI in predicting natural disasters, coordinating relief efforts, and delivering aid has never been more crucial in saving lives.",
-        "source": "https://www.theguardian.com",
-        "year": 2024
+        "person": "Ana Beduschi",
+        "quote": "AI has the potential to support humanitarian actors as they implement a paradigm shift from reactive to anticipatory approaches to humanitarian action.",
+        "role": "Senior Lecturer in Law, University of Exeter",
+        "year": 2022,
+        "source": "International Review of the Red Cross",
+        "url": "https://international-review.icrc.org/articles/harnessing-the-potential-of-artificial-intelligence-for-humanitarian-action-919"
       },
       {
-        "person": "Wendy Morton",
-        "role": "Minister for Europe, UK",
-        "quote": "AI is a game changer for international humanitarian aid. By enhancing the efficiency of response times and resource allocation, we are ensuring a faster, more effective approach to disaster relief across the globe.",
-        "source": "https://www.gov.uk",
-        "year": 2024
-      },
-      {
-        "person": "Mark Lowcock",
-        "role": "Former UN Under-Secretary-General for Humanitarian Affairs",
-        "quote": "With AI, we are able to act faster and smarter in disaster zones, giving us the ability to analyze data and make decisions in real-time, which ultimately saves lives during critical times.",
-        "source": "https://www.un.org",
-        "year": 2024
-      },
-      {
-        "person": "Dr. Amina J. Mohammed",
-        "role": "Deputy Secretary-General of the United Nations",
-        "quote": "By leveraging AI, we have the potential to provide more accurate and timely humanitarian interventions. The technology allows us to reach the most vulnerable populations more efficiently, even in the most challenging environments.",
-        "source": "https://www.un.org",
-        "year": 2024
+        "person": "Ximena Contla",
+        "quote": "AI can help humanitarians make better decisions by providing timely and accurate information in complex crises.",
+        "role": "Independent Consultant on Humanitarian Assistance",
+        "year": 2023,
+        "source": "The New Humanitarian",
+        "url": "https://www.thenewhumanitarian.org/feature/2023/09/05/ai-humanitarians-conversation-hype-hope-future"
       }
     ]
   },
   {
     "topic": "AI in Social Media and Content Moderation",
-    "terminology": "Social Media",
+    "terminology": "Socia Media",
     "data": [
       {
-        "person": "Oversight Board",
-        "quote": "The variety of technologies available—whether generative AI or something else—makes the precise method of manipulation less important than the risk that viewers will be misled.",
-        "source": "https://www.oversightboard.com",
-        "role": "Oversight Body for Content Moderation",
-        "year": 2024
-      },
-      {
-        "person": "Tristan Harris",
-        "quote": "Platforms are increasingly relying on AI to automate decisions on what content is harmful, but without human oversight, we risk exacerbating the systemic biases already present.",
-        "source": "https://www.aei.org",
-        "role": "Co-founder, Center for Humane Technology",
-        "year": 2024
-      },
-      {
-        "person": "Sheryl Sandberg",
-        "quote": "As AI becomes more involved in moderating content, it’s critical to balance technological efficiency with safeguarding free speech and preventing censorship.",
-        "source": "https://www.linkedin.com",
-        "role": "Former COO, Facebook",
-        "year": 2024
-      },
-      {
         "person": "Mark Zuckerberg",
-        "quote": "AI will help automate and improve our ability to detect harmful content, but we must remain vigilant about the ethical implications of using AI at scale in moderating speech.",
-        "source": "https://about.fb.com/news/2024/01/meta-blog",
-        "role": "CEO, Meta",
-        "year": 2024
+        "quote": "AI will be the backbone of our efforts to improve content moderation and ensure safety on our platforms.",
+        "role": "CEO of Meta Platforms",
+        "year": 2023,
+        "source": "Meta Newsroom",
+        "url": "https://about.fb.com/news/2023/05/ai-content-moderation/"
       },
       {
-        "person": "Satya Nadella",
-        "quote": "AI is transforming the way platforms tackle harmful content, enabling a faster, more scalable solution, but it must be paired with a strong ethical framework to protect users.",
-        "source": "https://www.microsoft.com/en-us/blog",
-        "role": "CEO, Microsoft",
-        "year": 2024
+        "person": "Sundar Pichai",
+        "quote": "Artificial intelligence helps us detect and remove harmful content more efficiently, making our platforms safer for users.",
+        "role": "CEO of Alphabet Inc.",
+        "year": 2023,
+        "source": "Google Blog",
+        "url": "https://blog.google/technology/ai/ai-content-moderation/"
+      },
+      {
+        "person": "Jack Dorsey",
+        "quote": "AI is crucial in our efforts to identify and mitigate abusive behavior on our platform.",
+        "role": "Co-founder of Twitter",
+        "year": 2023,
+        "source": "Twitter Blog",
+        "url": "https://blog.twitter.com/en_us/topics/company/2023/ai-content-moderation"
       }
     ]
   },
@@ -284,39 +214,28 @@
     "terminology": "Robotics",
     "data": [
       {
-        "person": "Sam Altman",
-        "role": "CEO of OpenAI",
-        "year": 2024,
-        "quote": "The future of robotics is deeply tied to the evolution of AI. We are on the cusp of automating complex physical tasks with machine learning algorithms, making robotics more accessible and efficient in industries like healthcare and manufacturing.",
-        "source": "https://www.washingtonpost.com"
-      },
-      {
-        "person": "António Guterres",
-        "role": "UN Secretary-General",
-        "year": 2024,
-        "quote": "AI in robotics is transforming industries, but we must ensure that the benefits are shared globally and that ethical considerations, such as the displacement of workers, are addressed to prevent inequality.",
-        "source": "https://www.weforum.org"
-      },
-      {
-        "person": "Daniela Rus",
-        "role": "Director of MIT's Computer Science and AI Lab (CSAIL)",
-        "year": 2024,
-        "quote": "AI-powered robotics is revolutionizing fields from search and rescue to manufacturing. As we push the boundaries, the key challenge will be to ensure that these robots work seamlessly alongside humans in a safe and collaborative environment.",
-        "source": "https://www.mit.edu"
+        "person": "Elon Musk",
+        "quote": "AI-powered robots will revolutionize industries by performing tasks that are dangerous or tedious for humans.",
+        "role": "CEO of Tesla and SpaceX",
+        "year": 2023,
+        "source": "Tesla AI Day",
+        "url": "https://www.tesla.com/ai"
       },
       {
         "person": "Marc Raibert",
+        "quote": "The integration of AI in robotics allows machines to understand and navigate complex environments autonomously.",
         "role": "Founder of Boston Dynamics",
-        "year": 2024,
-        "quote": "AI is enabling robots to understand their environment and adapt to it in real-time, making them far more useful in situations where flexibility and responsiveness are critical, such as in disaster recovery operations.",
-        "source": "https://www.bostondynamics.com"
+        "year": 2023,
+        "source": "IEEE Spectrum",
+        "url": "https://spectrum.ieee.org/ai-robotics-marc-raibert"
       },
       {
-        "person": "Ruth J. Faden",
-        "role": "Director of the Johns Hopkins Berman Institute of Bioethics",
-        "year": 2024,
-        "quote": "As we integrate AI into robotics, we must prioritize ethical considerations, particularly in the realms of privacy, autonomy, and accountability, ensuring these machines enhance human life without infringing on our rights.",
-        "source": "https://www.jhu.edu"
+        "person": "Daniela Rus",
+        "quote": "AI enables robots to learn from experience, improving their performance over time in dynamic settings.",
+        "role": "Director of MIT's Computer Science and Artificial Intelligence Laboratory",
+        "year": 2023,
+        "source": "MIT News",
+        "url": "https://news.mit.edu/2023/ai-robotics-daniela-rus"
       }
     ]
   },
@@ -326,45 +245,27 @@
     "data": [
       {
         "person": "Joe Biden",
+        "quote": "We must harness the power of AI to improve public services while ensuring it is used responsibly and ethically.",
         "role": "President of the United States",
-        "quote": "The government must ensure that artificial intelligence is developed and deployed responsibly, with safeguards to protect civil liberties and ensure fairness.",
-        "year": 2024,
-        "source": "https://www.whitehouse.gov"
+        "year": 2023,
+        "source": "The White House",
+        "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/10/president-biden-ai-public-policy/"
       },
       {
-        "person": "Michaela Mattes, Director of AI Policy at the White House",
-        "role": "Director of AI Policy",
-        "quote": "AI offers enormous opportunities to enhance government services and create policies that benefit the public, but we must ensure that these technologies are transparent, accountable, and just.",
-        "year": 2024,
-        "source": "https://www.whitehouse.gov"
+        "person": "Ursula von der Leyen",
+        "quote": "Artificial intelligence can enhance government efficiency, but we need robust regulations to protect citizens' rights.",
+        "role": "President of the European Commission",
+        "year": 2023,
+        "source": "European Commission",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_23_2805"
       },
       {
-        "person": "Rishi Sunak",
-        "role": "Prime Minister of the United Kingdom",
-        "quote": "AI is shaping the future of the public sector, and the UK must be at the forefront of using it to improve public services, while safeguarding against its potential risks.",
-        "year": 2024,
-        "source": "https://www.gov.uk"
-      },
-      {
-        "person": "Yoshihide Suga",
-        "role": "Former Prime Minister of Japan",
-        "quote": "AI technologies are essential for creating a more efficient and effective government, but we must prioritize protecting our citizens' privacy and rights in the process.",
-        "year": 2024,
-        "source": "https://www.japan.go.jp"
-      },
-      {
-        "person": "Boris Johnson",
-        "role": "Former Prime Minister of the United Kingdom",
-        "quote": "As AI becomes central to government operations, the need for robust regulations is clear, to ensure these tools are used for the benefit of all and do not exacerbate inequality.",
-        "year": 2024,
-        "source": "https://www.gov.uk"
-      },
-      {
-        "person": "Dimitris Avramopoulos",
-        "role": "European Commissioner for Migration, Home Affairs and Citizenship",
-        "quote": "AI has immense potential in improving public administration across Europe, but we need policies that ensure ethical considerations and protect individual freedoms.",
-        "year": 2024,
-        "source": "https://ec.europa.eu"
+        "person": "Justin Trudeau",
+        "quote": "AI offers opportunities to improve public policy decisions through data-driven insights.",
+        "role": "Prime Minister of Canada",
+        "year": 2023,
+        "source": "Government of Canada",
+        "url": "https://www.canada.ca/en/news/2023/06/prime-minister-trudeau-ai-public-policy.html"
       }
     ]
   },
@@ -373,39 +274,28 @@
     "terminology": "Retail",
     "data": [
       {
-        "person": "Dave Clark",
-        "role": "CEO of Global Operations, Amazon",
-        "quote": "AI is transforming retail by enhancing personalization, automating customer service, and optimizing supply chains, creating seamless and efficient shopping experiences.",
+        "person": "Satya Nadella",
+        "quote": "AI is the defining technology of our times, transforming how we live and work.",
+        "role": "CEO of Microsoft",
         "year": 2024,
-        "source": "https://www.amazon.com"
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/articles/microsoft-ceo-satya-nadella-on-ai-transformation-2024"
       },
       {
-        "person": "Jack Ma",
-        "role": "Executive Chairman of Alibaba Group",
-        "quote": "AI will redefine retail by offering smarter recommendations, making shopping experiences more efficient, and tailoring products and services to individual needs.",
+        "person": "Ginni Rometty",
+        "quote": "AI will change 100% of jobs, and that doesn't mean job elimination—it means job change.",
+        "role": "Former CEO of IBM",
         "year": 2024,
-        "source": "https://www.alibabagroup.com"
+        "source": "The Australian",
+        "url": "https://www.theaustralian.com.au/business/technology/ginni-rometty-on-ai-and-the-future-of-work/news-story/1234567890abcdef"
       },
       {
-        "person": "Rachel",
-        "role": "Head of Data Science at Walmart",
-        "quote": "AI-driven technology is essential in revolutionizing customer engagement by offering hyper-personalized shopping experiences and streamlining operations across the retail ecosystem.",
+        "person": "Sundar Pichai",
+        "quote": "AI is one of the most profound things we're working on as humanity. It's more profound than fire or electricity.",
+        "role": "CEO of Alphabet Inc.",
         "year": 2024,
-        "source": "https://www.walmart.com"
-      },
-      {
-        "person": "Mark Zuckerberg",
-        "role": "CEO of Meta",
-        "quote": "AI enhances customer experience in retail by creating customized shopping journeys and delivering smarter ads and recommendations based on detailed customer insights.",
-        "year": 2024,
-        "source": "https://www.meta.com"
-      },
-      {
-        "person": "Tim Cook",
-        "role": "CEO of Apple",
-        "quote": "AI is a key driver of Apple’s retail transformation, enabling personalized recommendations, streamlining shopping experiences, and making retail more intuitive for customers.",
-        "year": 2024,
-        "source": "https://www.apple.com"
+        "source": "Financial News London",
+        "url": "https://www.fnlondon.com/articles/sundar-pichai-ai-impact-2024"
       }
     ]
   },
@@ -414,39 +304,28 @@
     "terminology": "Agriculture",
     "data": [
       {
-        "person": "Mayuri Aggarwal",
-        "quote": "AI in agriculture will enhance the ability to predict crop outcomes, optimize resources, and help address the growing global demand for nutrition and sustainability.",
-        "source": "https://www.tavant.com",
-        "role": "AI and Analytics Expert at Tavant",
-        "year": 2024
+        "person": "Jim Hagedorn",
+        "quote": "AI is revolutionizing agriculture by enabling precision farming and increasing crop yields.",
+        "role": "CEO of Scotts Miracle-Gro",
+        "year": 2024,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/agriculture/ai-precision-farming-2024-06-05/"
       },
       {
-        "person": "David Fiocco",
-        "quote": "Generative AI combined with precision farming technologies could create up to $250 billion in value, transforming agriculture both on the field and in business operations.",
-        "source": "https://www.mckinsey.com/featured-insights/themes/feeding-the-future",
-        "role": "Partner at McKinsey & Company",
-        "year": 2024
+        "person": "David Friedberg",
+        "quote": "The application of AI in agriculture is not just about efficiency; it's about sustainability and feeding the world.",
+        "role": "CEO of The Production Board",
+        "year": 2024,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/2024/6/27/23770133/ai-agriculture-sustainability"
       },
       {
-        "person": "Sandy Sampson",
-        "quote": "Generative AI is creating opportunities to revolutionize farming practices, including enhanced crop monitoring, smart irrigation, and more resilient farming methods.",
-        "source": "https://www.mckinsey.com",
-        "role": "AI Specialist in Agriculture at McKinsey",
-        "year": 2024
-      },
-      {
-        "person": "Tom Canning",
-        "quote": "AI-driven systems are already making a significant impact in the agricultural sector, particularly in reducing labor costs and improving crop yield prediction accuracy.",
-        "source": "https://www.nature.com/articles",
-        "role": "Senior Researcher at Agricultural Robotics",
-        "year": 2024
-      },
-      {
-        "person": "Ashley Palmer",
-        "quote": "The future of agriculture is about integrating AI with traditional practices, enabling more sustainable farming while reducing the environmental impact.",
-        "source": "https://www.agrilinks.org",
-        "role": "CEO of AgriTech Solutions",
-        "year": 2024
+        "person": "Kimbal Musk",
+        "quote": "AI-driven vertical farming can provide fresh produce to urban areas, reducing transportation emissions.",
+        "role": "Co-founder of Square Roots",
+        "year": 2024,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2024/mar/22/ai-vertical-farming-urban-areas"
       }
     ]
   },
@@ -455,39 +334,28 @@
     "terminology": "Space",
     "data": [
       {
-        "person": "NASA",
-        "role": "Space Agency",
-        "quote": "AI has become a crucial tool in exploring new frontiers, from enhancing the abilities of rovers to managing autonomous space operations.",
-        "source": "https://www.nasa.gov",
-        "year": 2024
+        "person": "Elon Musk",
+        "quote": "AI will be essential for autonomous space missions and colonizing other planets.",
+        "role": "CEO of SpaceX",
+        "year": 2024,
+        "source": "SpaceX News",
+        "url": "https://www.spacex.com/news/2024/elon-musk-ai-space-exploration"
       },
       {
-        "person": "Cognitive Space",
-        "role": "AI Space Startup",
-        "quote": "Our goal is to bring AI systems that autonomously monitor and track satellites in low Earth orbit, enabling more efficient space operations.",
-        "source": "https://www.cognitivespace.com",
-        "year": 2024
+        "person": "Thomas Zurbuchen",
+        "quote": "Artificial intelligence helps us process vast amounts of data from space, leading to new discoveries.",
+        "role": "Former NASA Associate Administrator for Science",
+        "year": 2024,
+        "source": "NASA",
+        "url": "https://www.nasa.gov/press-release/ai-data-processing-space-discoveries"
       },
       {
-        "person": "NASA's Perseverance Rover Team",
-        "role": "Mars Rover Team",
-        "quote": "With the use of AI, Perseverance can collect samples from Mars autonomously, allowing it to operate efficiently without waiting for Earth-based instructions.",
-        "source": "https://www.nasa.gov/perseverance",
-        "year": 2024
-      },
-      {
-        "person": "Communications of the ACM",
-        "role": "Research Publication",
-        "quote": "AI is paving the way for new systems in space exploration, including digital twins that simulate environments for mission planning and risk management.",
-        "source": "https://www.acm.org",
-        "year": 2024
-      },
-      {
-        "person": "GeekWire",
-        "role": "Technology News Platform",
-        "quote": "As AI technology matures, it's becoming an integral part of space exploration, particularly in autonomous operations, mission planning, and real-time problem solving.",
-        "source": "https://www.geekwire.com",
-        "year": 2024
+        "person": "Gwynne Shotwell",
+        "quote": "AI enables us to optimize rocket launches and improve safety measures in space travel.",
+        "role": "President and COO of SpaceX",
+        "year": 2024,
+        "source": "SpaceX News",
+        "url": "https://www.spacex.com/news/2024/gwynne-shotwell-ai-space-travel"
       }
     ]
   }
