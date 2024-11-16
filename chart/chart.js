@@ -56,7 +56,7 @@ function forceGraph(nodes, params) {
     .attr('class', (d) => `circle-node`)
     .attr("r", (d) => rScale(d.amount))
     .attr('fill', (d) => d.color)
-    .attr('opacity', 0.3)
+    .attr('opacity', 1)
 
   // append text to node circle
   node
@@ -113,11 +113,6 @@ function forceGraph(nodes, params) {
       .attr('r', (x) => rScale(x.amount))
       .style('filter', `drop-shadow(0 0 0.90rem ${d.color})`)
 
-    d3.select('.quotes-section')
-      .style('opacity', 0)
-      .transition()
-      .duration(1000)
-      .style('opacity', 1)
   }
 
 
