@@ -187,3 +187,8 @@ a {
   color: #a29f9f;
   font-style: italic;
 }
+
+.author-role {
+  font-size: 14px;
+  color: #a29f9f;
+}

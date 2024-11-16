@@ -149,7 +149,7 @@ function forceGraph(nodes, params) {
 
       quoteContainer.append('div')
         .html(`<div class='quote-container-text'> 
-        <div class='quote-author'>  ${quote.person} <span> (${quote.role})</span>  </div>
+        <div class='quote-author'>  ${quote.person} <span class='author-role'> (${quote.role})</span>  </div>
         <div class='quote-text'> "${quote.quote}"</div> 
         <div class='quote-source'> 
         
